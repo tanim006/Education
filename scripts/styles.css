@@ -1,0 +1,15 @@
+
+/* styles.css */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,100..1000;1,100..1000&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+@import 'tailwindcss/tailwind.css';
+
+body {
+  font-family: 'DM Sans', sans-serif;
+font-family: "Plus Jakarta Sans", sans-serif;
+
+}
+
+.custom-bullets li::marker {
+  color: #FF9AA1; /* Custom bullet color */
+  font-size: 1.5em; /* Increase bullet size */
+}
