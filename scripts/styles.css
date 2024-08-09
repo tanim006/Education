@@ -12,4 +12,6 @@ font-family: "Plus Jakarta Sans", sans-serif;
 .custom-bullets li::marker {
   color: #FF9AA1; /* Custom bullet color */
   font-size: 1.5em; /* Increase bullet size */
+  
 }
+
